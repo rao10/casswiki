@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "dcdbf69c24e91ed7",
+    "type": "split",
+    "children": [
+      {
+        "id": "543ac72614d0ebc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7361aa54f9842b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/How to Win Friends and Influence People.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0d1bcba92da19a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bc4bd126636326c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f8ae7ad484c706",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9762b28b0791898c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb5a6163abcdf866",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "366435b42970c35a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be03d49e5ba7d77f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c6c69e8f92f1bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/How to Win Friends and Influence People.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c96433f4eaaa90c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/How to Win Friends and Influence People.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b3f9266ecf64d49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e74dc4dd6dc41c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/How to Win Friends and Influence People.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "8a7361aa54f9842b",
+  "lastOpenFiles": [
+    "Books/Hostage to the Devil.md",
+    "Books/Gnosis (book trilogy).md",
+    "Books/From Exodus to Arthur.md",
+    "Books/Fiber Menace.md",
+    "Books/Egypt, Canaan and Israel in Ancient Times.md",
+    "Books/Escape from Evil.md",
+    "Books/Fear of the Abyss.md",
+    "casswiki.md",
+    "casswiki_split_test.md",
+    "Channeling and channeled material/Altered States Of Consciousness.md",
+    "Abbreviations.md",
+    "Religion/Dervish.md",
+    "Religion/Demiurge.md",
+    "Religion/Buddha.md",
+    "media/image302.png",
+    "media",
+    "New folder",
+    "Books/All and Everything.md",
+    "Books/911 The Ultimate Truth.md",
+    "Shamanism and archaic esotericism/Warrior.md",
+    "Shamanism and archaic esotericism/Unknown and unknowable.md",
+    "Shamanism and archaic esotericism/Tonal.md",
+    "Shamanism and archaic esotericism/Stalking.md",
+    "Shamanism and archaic esotericism/Shamanism.md",
+    "Shamanism and archaic esotericism/Predator’s mind.md",
+    "Shamanism and archaic esotericism/Nagual.md",
+    "Shamanism and archaic esotericism/Impeccability.md",
+    "Shamanism and archaic esotericism/Fulcanelli.md",
+    "Shamanism and archaic esotericism/Discipline.md",
+    "Shamanism and archaic esotericism",
+    "Religion",
+    "Psychology",
+    "Ponerology and psychopathy",
+    "Politics and pathocracy",
+    "New Age",
+    "Natural science",
+    "Mythology"
+  ]
+}
